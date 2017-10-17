@@ -1,2 +1,0 @@
-# GirlsCodingDayDemo
-Bootstrap
